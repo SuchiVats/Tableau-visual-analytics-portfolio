@@ -69,6 +69,7 @@ I am a passionate Data Analyst based in Delhi, India, specializing in creating i
 
 - **LinkedIn:** [Profile](https://www.linkedin.com/in/suchi-vats-a2b100279/)
 - **GitHub:** [Profile](https://github.com/SuchiVats)
-- **Tableau Public Profile:** [Profile](https://public.tableau.com/app/profile/suchi.sharma)  
+- **Tableau Public Profile:** [Profile](https://public.tableau.com/app/profile/suchi.sharma)
+- **Data Science Portfolio:** [Profile](https://www.datascienceportfol.io/SuchiSharma)
 
 Feel free to explore my work and reach out with any questions, collaboration ideas, or feedback. Your insights are always welcome!
